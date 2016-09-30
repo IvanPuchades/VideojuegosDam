@@ -17,6 +17,8 @@ public class Videojuegos {
     //Variable que contiene nuestra lista de juegos
     private static GameList misJuegos;
     private static Fichero miFichero;
+    
+    //introduzco un comentario
         
     /**
      * @param args the command line arguments
